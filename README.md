@@ -1,4 +1,4 @@
-# cuongminhvu.xyz
+# Clean website template
 
 - **Framework**: [Next.js](https://nextjs.org/)
 - **Deployment**: [Vercel](https://vercel.com)
@@ -6,7 +6,9 @@
 
 ## Overview
 
-Portfolio website inspired by [leerob.io](https://leerob.io/)
+! For personal use only !
+
+Template website inspired by [leerob.io](https://leerob.io/)
 
 This application requires Node.js v16.13+.
 
